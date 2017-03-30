@@ -93,26 +93,26 @@ body h1, h2, h3, p, ul{
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
+
 h3 {
   margin: 0;
 }
 
 .parallax {
-  background-image: url("http://www.w3schools.com/howto/img_parallax.jpg");
+  background-image: url("http://cdn.wallpapersafari.com/57/45/k4CB1P.jpg");
   height: 100%;
   background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   color: #ffffff;
   padding: 50px;
 }
 .parallax2 {
-  background-image: url("http://www.w3schools.com/howto/img_parallax3.jpg");
+  background-image: url("http://cdn.wallpapersafari.com/57/45/k4CB1P.jpg");
 /*  height: 100%;
 */  background-attachment: fixed;
-  background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 50px;
