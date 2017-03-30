@@ -1,4 +1,6 @@
 require 'sinatra'
+require 'Haml'
+require 'Sass'
 
 configure do
 	enable :sessoins
